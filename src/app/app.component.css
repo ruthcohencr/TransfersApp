@@ -1,0 +1,16 @@
+#headerTitle{
+    padding: 10px;
+    height: 20px;
+    text-align: center;
+}
+
+#welcomeContainer{
+    padding: 20px;
+    position: relative;
+    left: 37%;
+    top: 26px;
+}
+
+#image{
+    justify-content: "center"
+}
